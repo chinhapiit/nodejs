@@ -1,0 +1,10 @@
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.csproj.AssemblyReference.cache
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.Form1.resources
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.Properties.Resources.resources
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.csproj.GenerateResource.cache
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.csproj.CoreCompileInputs.cache
+D:\prjNet16\Chat_Server\Form_Client\bin\Debug\Form_Client.exe.config
+D:\prjNet16\Chat_Server\Form_Client\bin\Debug\Form_Client.exe
+D:\prjNet16\Chat_Server\Form_Client\bin\Debug\Form_Client.pdb
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.exe
+D:\prjNet16\Chat_Server\Form_Client\obj\Debug\Form_Client.pdb

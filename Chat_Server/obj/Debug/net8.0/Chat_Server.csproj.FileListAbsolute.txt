@@ -1,0 +1,14 @@
+D:\prjNet16\Chat_Server\Chat_Server\bin\Debug\net8.0\Chat_Server.exe
+D:\prjNet16\Chat_Server\Chat_Server\bin\Debug\net8.0\Chat_Server.deps.json
+D:\prjNet16\Chat_Server\Chat_Server\bin\Debug\net8.0\Chat_Server.runtimeconfig.json
+D:\prjNet16\Chat_Server\Chat_Server\bin\Debug\net8.0\Chat_Server.dll
+D:\prjNet16\Chat_Server\Chat_Server\bin\Debug\net8.0\Chat_Server.pdb
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.AssemblyInfoInputs.cache
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.AssemblyInfo.cs
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.csproj.CoreCompileInputs.cache
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.dll
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\refint\Chat_Server.dll
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.pdb
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\Chat_Server.genruntimeconfig.cache
+D:\prjNet16\Chat_Server\Chat_Server\obj\Debug\net8.0\ref\Chat_Server.dll
